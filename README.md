@@ -1,6 +1,9 @@
 # hand-detector-module
 A module I made to detect hand landmarks and return the position and id of each landmark
 # To use 
+```bash
+pip install opencv-python mediapipe
+```
 ```python
 import mediapipe as mp
 import cv2
