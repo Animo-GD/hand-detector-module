@@ -21,3 +21,6 @@ cap = cv2.VideoCapture(0)
 cap.release()
 cv2.destroyAllWindows()
 ```
+------------------
+# Landmark
+![landmark](https://www.researchgate.net/publication/361422439/figure/fig3/AS:1179066128441346@1658122679537/MediaPipe-hand-landmarks-46.png)
